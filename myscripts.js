@@ -1,5 +1,5 @@
 // function([string1, string2],target id,[color1,color2])    
-consoleText(['Server 1 is slow.', 'We are fixing it.', 'Currently stored: 500+ photos.'], 'text',['tomato','rebeccapurple','lightblue']);
+consoleText(['Server 1 not avaliable.', 'We are fixing it.', 'Currently stored: 500+ photos.'], 'text',['tomato','rebeccapurple','lightblue']);
 
 function consoleText(words, id, colors) {
   if (colors === undefined) colors = ['#fff'];
