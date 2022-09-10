@@ -1,0 +1,6 @@
+const prevent = prevent.duplicate(clone.IntoGithub)
+
+function clone
+	prevent.duplicate(clone.IntoGithub) = prevent.New = prevent
+and return
+
